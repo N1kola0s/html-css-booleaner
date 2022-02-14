@@ -49,3 +49,31 @@ background: 868686; /light grey text
     background-color: yellow;
 }
 
+h2 {
+    color:#868686;
+}
+
+
+#site_footer {
+    color:white;
+    font-size: 22px;
+    
+
+}
+
+#image1 {
+    background-image: url("../img/monitor.jpg");
+    background-size: cover ;
+    height: 250px;
+    width: 400px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+#image2 {
+    background-image: url("../img/graph.jpg");
+    background-size: cover;
+    height: 250px;
+    width: 400px;
+    padding: 10px;
+}
