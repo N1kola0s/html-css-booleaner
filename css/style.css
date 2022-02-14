@@ -37,3 +37,15 @@ background: 868686; /light grey text
     font-size: 25px;
 }
 
+#images {
+    margin-top: 30px;
+}
+
+.text {
+    font-size: 22px;
+}
+
+.highlighted {
+    background-color: yellow;
+}
+
